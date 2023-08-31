@@ -1,0 +1,5 @@
+{{#user}}
+Name: Ayush Jain
+Skills: HTML, CSS, JS, SQLite, MySQL, Python, Machine learning
+Email: ayushjain1141@gmail.com
+{{/user}}
